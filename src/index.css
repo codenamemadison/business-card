@@ -47,6 +47,7 @@ h1 {
   margin-top: 20px;
   font-weight: 700;
   font-size: 2.5rem;
+  
 }
 
 h2 {
@@ -153,4 +154,6 @@ button :focus {
 
 #footer > img {
   width: 25px;
+   margin-bottom: 20px;
+
 }
