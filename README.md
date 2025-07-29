@@ -1,16 +1,11 @@
-# React + Vite
+# My Business Card
+A digital business card created to provide people with a brief coverage of who I am, what I do, and how to contact me. Built using **React**.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*Note: This was a project built by me while following the "Learn React" Scrimba certification course, in which the course provided the design and concept*
 
-Currently, two official plugins are available:
+## Links
+<a href="https://www.figma.com/design/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0-129&t=rdKGTedDDqOjmTkU-0" target="_blank">Figma file</a> – created by Scrimba <br>
+Launch the app [here](https://madisonshimbo-business-card.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-
-#Figma File:
-https://www.figma.com/design/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0-129&t=rdKGTedDDqOjmTkU-0
+## How to run locally
+Run <pre> ```npm run dev ``` </pre>
